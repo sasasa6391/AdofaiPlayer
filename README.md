@@ -1,7 +1,7 @@
 # AdofaiPlayer
 ![image](https://github.com/user-attachments/assets/cdcfbd9b-5181-4bd9-83f9-ea254a9989ef)
 
-<br> 프로젝트명 : Adofai Player </br>
+<br> <b>프로젝트명</b> : Adofai Player </br>
 <br> 장르 : 리듬게임 </br>
 <br> 개발 툴 : Visual Studio 2022 / Unity 2022.3.28  </br>
 <br> 개발 기간 : 2024.06.10 ~ 2024.06.20  </br>
